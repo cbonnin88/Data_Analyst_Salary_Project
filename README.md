@@ -62,7 +62,7 @@ SAS at 18% and Spark at 12% have lower demand compared to other skills.
 
 
 # The Analysis
-## 2. HOw are in-demand skills trending for Data Analysts in France ?.
+## 2. How are in-demand skills trending for Data Analysts in France ?.
 
 ### Visualize Data
 ```

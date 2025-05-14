@@ -6,6 +6,9 @@ To find the most in demand skills for the top 3 popular data roles based in Fran
 View my notebook with the detailed steps here :
 [skills_demand.ipynb](skills_demand.ipynb)
 
+Here is the link to my Tableau Profile if you want to view this project:
+https://public.tableau.com/views/dataAnalystjobs/DataAnalystJobs?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 
 ### Visualizing the Data 
 ```
